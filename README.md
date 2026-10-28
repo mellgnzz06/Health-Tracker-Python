@@ -87,8 +87,8 @@ Keep taking care of your health!
 
 ## Future Improvements
 
-- ~~Save data over time~~ ✅ Done!
-- ~~Add calorie tracking~~ ✅ Done!
-- ~~Create a simple interface~~ ✅ Done!
+- ~~Save data over time~~ Done!
+- ~~Add calorie tracking~~  Done!
+- ~~Create a simple interface~~  Done!
 - Keep only one entry per day
 - Show charts of progress over time
